@@ -1,0 +1,1 @@
+A simple program to show how unit testing can be done in a program that calculates interest rates.
