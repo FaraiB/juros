@@ -1,0 +1,24 @@
+{
+  "name": "exercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "juros.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "modulos",
+    "testes"
+  ],
+  "author": "Farai Bvuma",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "jest": {
+    "collectCoverage": true
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
